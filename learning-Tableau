@@ -1,0 +1,21 @@
+Learning Tableau Resources
+
+ 
+Took these two courses on Udemy. By taking these two courses, I quickly had hands-on experiences and familiar with Tableau features.
+https://www.udemy.com/tableau10/
+https://www.udemy.com/tableau10-advanced/
+
+Viewed all free learning course in Tableau: https://www.tableau.com/learn/training.
+I feel the free learning courses content is overlapped with the courses on Udemy. But the courses on Udemy give you more examples and make you understand how Tableau be applied to real work.
+You can check this link for some sample exam questions: https://learningtableau.com/. This sample question website is for Tableau Qualified Associate. The questions are a little bit hard, but it could give you some idea about the real exam questions.
+
+The following topics are a little bit hard, so you might need to take some to understand how to use LOD, regular expression, and tableau calculation in Tableau.
+- Tableau LOD
+https://www.tableau.com/learn/tutorials/on-demand/introduction-lod-expressions
+https://www.tableau.com/about/blog/LOD-expressions
+
+ - Regular expression
+https://onlinehelp.tableau.com/current/pro/desktop/en-us/functions_functions_additional.html
+
+ - Table calculation
+https://www.tableau.com/about/blog/2017/2/top-10-tableau-table-calculations-65417
